@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae - Anugrah Setiawan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffff;
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #997950;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background-size: 23px;
+            background-position: center;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .header img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+        }
+
+        .header h1 {
+            margin-top: 10px;
+            font-size: 2.5em;
+        }
+
+        .header h2 {
+            font-size: 1.5em;
+            margin-top: 5px;
+        }
+
+        .section {
+            margin-bottom: 30px;
+        }
+
+        .section h3 {
+            font-size: 1.8em;
+            margin-top: 0;
+            color: #333;
+        }
+
+        .section p {
+            line-height: 1.6;
+            color: #333;
+        }
+
+        .section ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+
+        .contact {
+            text-align: center;
+        }
+
+        .contact a {
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+        }
+
+        .contact a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="Anugrah.png" alt="Profile Picture">
+            <h1>Anugrah Setiawan</h1>
+            <h2>H233600429</h2>
+        </div>
+
+        <div class="section">
+            <h3>Tentang Saya</h3>
+            <p>Saya saat ini sedang berkuliah di Politeknik Pertanian Negeri Samarinda. Saya dikampus mengikuti 1 organisasi yaitu FORMADIKSI-KIP (Forum Mahasiswa Bidikmisi-KIP). Di forum tersebut saya menjabat sebagai KOORDINATOR DIVISI KOMINFO, tugas saya disivisi kominfo adalah dengan menjalankan program kerja saya sepeti podcast dan melati anggota saya belajar desain.</p>
+        </div>
+
+        <div class="section">
+            <h3>Skill</h3>
+            <ul>
+                <li>Teamwork</li>
+                <li>Communication</li>
+                <li>Social Skills</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h3>Software</h3>
+            <ul>
+                <li>Microsoft Word</li>
+                <li>Microsoft Excel</li>
+                <li>Adobe Photoshop</li>
+                <li>CorelDRAW</li>
+                <li>Canva</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h3>Riwayat Pendidikan</h3>
+            <ul>
+                <li>MIN 2 Samarinda (2011-2017)</li>
+                <li>SMP IT Subulussalam (2017-2020)</li>
+                <li>SMK Al - Khairiyah (2020-2023) <br> Menempuh pendidikan pada jurusan Desain Grafika</li>
+                <li>Politeknik Pertanian Negeri Samarinda (2023-Sekarang) <br> Menempuh pendidikan pada Prodi Teknologi Rekayasa Perangkat Lunak</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h3>Organisasi</h3>
+            <ul>
+                <li>FORMADIKSI-KIP Politani (2023-Sekarang) <br> Forum Mahasiswa Bidikmisi-KIP Politeknik Pertanian Negeri Samarinda</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h3>Hobi</h3>
+            <ul>
+                <li>Mendesain</li>
+                <li>Menyanyi</li>
+                <li>Badminton</li>
+                <li>Sepak Bola</li>
+            </ul>
+        </div>
+
+        <div class="contact">
+            <h3>Contact Me</h3>
+            <a href="tel:+6285822473552">+62 858 2247 3552</a>
+            <a href="mailto:nursetiawan1967@gmail.com">nursetiawan1967@gmail.com</a>
+            <a href="https://www.instagram.com/anugrh_211">@anugrh_211</a>
+        </div>
+    </div>
+</body>
+</html>
