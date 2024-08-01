@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Curriculum Vitae - Anugrah Setiawan</title>
+    <title>Curriculum Vitae - Diyas putra pratama</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -81,9 +81,9 @@
 <body>
     <div class="container">
         <div class="header">
-            <img src="Anugrah.png" alt="Profile Picture">
-            <h1>Anugrah Setiawan</h1>
-            <h2>H233600429</h2>
+            <img src="fotodiyas.jpg" alt="Profile Picture">
+            <h1>Diyas Putra Pratama</h1>
+            <h2>H233600426</h2>
         </div>
 
         <div class="section">
@@ -114,9 +114,9 @@
         <div class="section">
             <h3>Riwayat Pendidikan</h3>
             <ul>
-                <li>MIN 2 Samarinda (2011-2017)</li>
-                <li>SMP IT Subulussalam (2017-2020)</li>
-                <li>SMK Al - Khairiyah (2020-2023) <br> Menempuh pendidikan pada jurusan Desain Grafika</li>
+                <li>SDN 016 Samarinda (2011-2017)</li>
+                <li>SMPN 24 SAMARINDA (2017-2020)</li>
+                <li>SMKN 15 SAMARINDA (2020-2023) <br> Menempuh pendidikan pada jurusan Akutansi</li>
                 <li>Politeknik Pertanian Negeri Samarinda (2023-Sekarang) <br> Menempuh pendidikan pada Prodi Teknologi Rekayasa Perangkat Lunak</li>
             </ul>
         </div>
@@ -131,8 +131,8 @@
         <div class="section">
             <h3>Hobi</h3>
             <ul>
-                <li>Mendesain</li>
-                <li>Menyanyi</li>
+                <li>Berenang</li>
+                <li>futsal</li>
                 <li>Badminton</li>
                 <li>Sepak Bola</li>
             </ul>
@@ -140,9 +140,9 @@
 
         <div class="contact">
             <h3>Contact Me</h3>
-            <a href="tel:+6285822473552">+62 858 2247 3552</a>
-            <a href="mailto:nursetiawan1967@gmail.com">nursetiawan1967@gmail.com</a>
-            <a href="https://www.instagram.com/anugrh_211">@anugrh_211</a>
+            <a href="tel:+6289514902258">+62 8951 450 2258</a>
+            <a href="mailto:diyaspratama34@gmail.com">diyaspratama34@gmail.com</a>
+            <a href="https://www.instagram.com/dyasptrprtma">@dyasptrprtma</a>
         </div>
     </div>
 </body>
